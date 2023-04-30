@@ -140,9 +140,9 @@ related_blog_posts:
 # the information below.
 giscus:
   repo: manticorevenom/manticorevenom.github.io      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: R_kgDOJc_pQQ
+  repo_id: R_kgDOJdSdAQ
   category: Comments             # name of the category under which discussions will be created
-  category_id: DIC_kwDOJc_pQc4CWKPf
+  category_id: DIC_kwDOJdSdAc4CWKwp
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
