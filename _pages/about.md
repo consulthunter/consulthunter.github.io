@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Hunter Leary</p>
-    <p>Virginia, United</p>
+    <p>Virginia, United States</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -24,12 +24,13 @@ social: true  # includes social icons at the bottom of the page
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/appalachia_unsplash.jpg" title="Blue Ridge" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+      I'm a graduate student in computer science. My research is in the software engineering domain.
+      I grew up under the Blue Ridge mountains and have pretty much stayed around them my whole life.
+      I got my BS in Software Engineering and Computer Science at the University of Virginia's College at Wise.
+      Currently, I'm at Virginia Tech working with Dr. Chris Brown.
+    </div>
 </div>
-
-I'm a graduate student in computer science. My research is in the software engineering domain.
-I grew up under the Blue Ridge mountains and have pretty much stayed around them my whole life.
-I got my BS in Software Engineering and Computer Science at the University of Virginia's College at Wise.
-Currently, I'm at Virginia Tech working with Dr. Chris Brown.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
