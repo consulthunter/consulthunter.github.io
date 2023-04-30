@@ -48,13 +48,13 @@ Well, I don't really have much free time.
 However, this is a list of things I like to do when I have some free time.
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-      * DIY projects
-      * Working on cars
-      * Cooking
-      * Reading
-      * Learing guitar (would say playing but I'm not there yet)
-      * Working out
-      * Creating personal mods for games
+      <ul>DIY projects</ul>
+      <ul>Working on cars</ul>
+      <ul>Cooking</ul>
+      <ul>Reading</ul>
+      <ul>Learing guitar (would say playing but I'm not there yet)</ul>
+      <ul>Working out</ul>
+      <ul>Creating personal mods for games</ul>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/diy_unsplash.jpg" title="DIY Tools" class="img-fluid rounded z-depth-1" %}
