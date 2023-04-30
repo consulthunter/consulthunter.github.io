@@ -8,10 +8,9 @@ profile:
   align: right
   image: computer_scaled.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p></p>
-    <p></p>
-    <p></p>
+  info: >
+    <p>Hunter Leary</p>
+    <p>Virginia, United States</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -22,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ## About me
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/appalachia_unsplash.jpg" title="Blue Ridge" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -50,7 +49,7 @@ However, this is a list of things I like to do when I have some free time.
 * DIY projects
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/diy_unsplash.jpg" title="DIY Tools" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -59,7 +58,7 @@ However, this is a list of things I like to do when I have some free time.
 * Cooking
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/cooking_unsplash.jpg" title="Ingredients" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
