@@ -2,7 +2,7 @@
 layout: page
 title: Dynamic Network Inventory
 description: Using Ansible for documenting network devices on Netbox.
-img: 
+img: assets/img/Ansible_logo.png
 importance: 2
 category: work
 ---

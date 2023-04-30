@@ -2,7 +2,7 @@
 layout: page
 title: Android Infinite Jukebox
 description: 
-img: assets/img/infinite_jukbox.png
+img: assets/img/infinite_jukebox.png
 importance: 3
 category: school
 ---

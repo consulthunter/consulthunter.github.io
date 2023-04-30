@@ -2,7 +2,7 @@
 layout: page
 title: Wallpaper
 description: C# webscraper for pulling background images.
-img:
+img: assets/img/C-Sharp.png
 importance: 3
 category: fun
 ---

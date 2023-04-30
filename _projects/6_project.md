@@ -2,7 +2,7 @@
 layout: page
 title: Flight Delay Prediction
 description: Predicting flight delays with Spark MLlib
-img:
+img: assets/img/airplane-unsplash.jpg
 importance: 4
 category: school
 ---
