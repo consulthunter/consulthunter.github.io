@@ -19,8 +19,61 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/appalachia_unsplash.jpg" title="Blue Ridge" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/uvawise.jpg" title="UVA Wise" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/codeworld.jpg" title="Code world" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm a graduate student in computer science. My research is in the software engineering domain.
+I grew up under the Blue Ridge mountains and have pretty much stayed around them my whole life.
+I got my BS in Software Engineering and Computer Science at the University of Virginia's College at Wise.
+Currently, I'm at Virginia Tech working with Dr. Chris Brown.
+
+## Hobbies
+
+Well, I don't really have much free time.
+
+However, this is a list of things I like to do when I have some free time.
+
+* DIY projects
+* Working on cars
+* Cooking
+* Reading
+* Learing guitar (would say playing but I'm not there yet)
+* Working out
+* Creating personal mods for games
+
+## Skills
+
+Here are some programming languages I'm familiar with,
+
+* C#
+* Java
+* C/C++
+* Python
+
+Here are some programming languages I've used but not extensively,
+
+* Rust
+* JavaScript
+* Perl
+* Kotlin
+
+Tools/Technology I'm familiar with,
+
+* Git
+* HTML/CSS
+* Ansible
+* Cisco devices
+* Linux (Ubuntu, RHOS)
+
+There are probably more but I can't think of them right now. If you have a question about them just use the contact form or message me on LinkedIn.
