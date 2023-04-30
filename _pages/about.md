@@ -8,9 +8,9 @@ profile:
   align: right
   image: computer_scaled.jpg
   image_circular: false # crops the image to make it circular
-  info: >
+  address: >
     <p>Hunter Leary</p>
-    <p>Virginia, United States</p>
+    <p>Virginia, United</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -47,26 +47,21 @@ Well, I don't really have much free time.
 However, this is a list of things I like to do when I have some free time.
 
 * DIY projects
+* Working on cars
+* Cooking
+* Reading
+* Learing guitar (would say playing but I'm not there yet)
+* Working out
+* Creating personal mods for games
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/diy_unsplash.jpg" title="DIY Tools" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-
-* Working on cars
-* Cooking
-
-<div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
+        <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/cooking_unsplash.jpg" title="Ingredients" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-* Reading
-* Learing guitar (would say playing but I'm not there yet)
-* Working out
-* Creating personal mods for games
 
 ## Skills
 
