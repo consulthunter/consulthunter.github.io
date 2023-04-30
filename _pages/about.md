@@ -9,7 +9,6 @@ profile:
   image: computer_scaled.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Hunter Leary</p>
     <p>Virginia, United States</p>
 
 news: true  # includes a list of news items
@@ -25,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
         {% include figure.html path="assets/img/appalachia_unsplash.jpg" title="Blue Ridge" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-      I'm a graduate student in computer science. My research is in the software engineering domain.
+      My name is Hunter Leary. I'm a graduate student in computer science. My research is in the software engineering domain.
       I grew up under the Blue Ridge mountains and have pretty much stayed around them my whole life.
       I got my BS in Software Engineering and Computer Science at the University of Virginia's College at Wise.
       Currently, I'm at Virginia Tech working with Dr. Chris Brown.
@@ -48,13 +47,15 @@ Well, I don't really have much free time.
 However, this is a list of things I like to do when I have some free time.
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-      <ul>DIY projects</ul>
-      <ul>Working on cars</ul>
-      <ul>Cooking</ul>
-      <ul>Reading</ul>
-      <ul>Learing guitar (would say playing but I'm not there yet)</ul>
-      <ul>Working out</ul>
-      <ul>Creating personal mods for games</ul>
+      <ul>
+        <li>DIY projects</li>
+        <li>Working on cars</li>
+        <li>Cooking</li>
+        <li>Reading</li>
+        <li>Learing guitar (would say playing but I'm not there yet)</li>
+        <li>Working out</li>
+        <li>Creating personal mods for games</li>
+      </ul>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/diy_unsplash.jpg" title="DIY Tools" class="img-fluid rounded z-depth-1" %}
