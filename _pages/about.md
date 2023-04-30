@@ -31,21 +31,18 @@ social: true  # includes social icons at the bottom of the page
     </div>
 </div>
 
-Code World, No Blanket is the research group that I'm a part of and you can find out more information [here.](https://code-world-no-blanket.github.io/)
+Code World, No Blanket is the research group that I'm a part of and you can find out more information [here.](https://code-world-no-blanket.github.io/) Our group primarily focuses on software engineering.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/uvawise.jpg" title="UVA Wise" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="caption">
-      UVA-Wise Campus Photo.
-    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/codeworld.jpg" title="Code world" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="caption">
-      Code World, No Blanket Logo.
-    </div>
+</div>
+<div class="caption">
+      Left: UVA-Wise Campus Photo. Right: Code World, No Blanket Logo.
 </div>
 
 ## Hobbies
