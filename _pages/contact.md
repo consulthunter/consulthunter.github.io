@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 description: How can you get in touch?
 nav: true
-nav_order: 5
+nav_order: 6
 horizontal: false
 ---
 

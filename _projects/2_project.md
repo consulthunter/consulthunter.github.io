@@ -8,3 +8,12 @@ category: work
 ---
 
 I developed this for a company I worked for the goal was to dynamically/automatically inventory network devices. These devices were primarily Cisco products. I created Ansible playbooks to gather device information and then upload the information into Netbox. Once devices are in Netbox, I worked on a playbook that periodically checks device information using the device configuration.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Ansible_logo.png" title="Ansible Logo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/netbox.png" title="Netbox Logo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
