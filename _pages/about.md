@@ -57,7 +57,7 @@ However, this is a list of things I like to do when I have some free time.
         <li>Working on cars</li>
         <li>Cooking</li>
         <li>Reading</li>
-        <li>Learing guitar (would say playing but I'm not there yet)</li>
+        <li>Learning guitar (would say playing but I'm not there yet)</li>
         <li>Working out</li>
         <li>Creating personal mods for games</li>
       </ul>

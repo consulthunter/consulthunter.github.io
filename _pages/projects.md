@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: What I'm working on or have worked on.
+description: What I'm working on or have worked on. Most of these are private projects but if your interested reach out and I'll share what I can.
 nav: true
 nav_order: 3
 display_categories: [work, fun, school, research]
