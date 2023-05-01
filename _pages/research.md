@@ -20,7 +20,7 @@ This is my primary research interest. My current focus is on automated software 
     </div>
 </div>
 
-I have a general interest in this area. I'm primarily interested because most of professional experience is in this area.
+I have a general interest in this area. I'm primarily interested because most of my professional experience is in this area.
 
 ## Security
 
