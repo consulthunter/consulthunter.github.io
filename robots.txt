@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://manticorevenom.github.io/sitemap.xml
+Sitemap: https://consulthunter.github.io/sitemap.xml
