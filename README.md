@@ -2,4 +2,4 @@
 
 This is a personal website.
 
-You can check it out [here.](https://manticorevenom.github.io)
+You can check it out [here.](https://consulthunter.github.io)
